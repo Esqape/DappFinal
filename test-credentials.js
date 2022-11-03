@@ -1,6 +1,6 @@
 // Firebase Config
 export const config = {
-    apiKey: "xxxxxx",
+    apiKey: "xxxxx",
     authDomain: "certificates-dapp.firebaseapp.com",
     databaseURL: "https://certificates-dapp.firebaseio.com",
     projectId: "certificates-dapp",
