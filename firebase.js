@@ -4,7 +4,7 @@ import * as firebase from "firebase";
 const config = {
     apiKey: "xxxx",
     authDomain: "xxx",
-    databaseURL: "xx",
+    databaseURL: "xxx",
     projectId: "certificates-dapp",
     storageBucket: "certificates-dapp.appspot.com",
     messagingSenderId: "xxx",
